@@ -1,5 +1,5 @@
 # Residual Analysis — Multiple Regression Model
-**Student:** Aditya Verma | **ID:** bitsom_ba_2511044  
+**Student:** Alok Verma | **ID:** bitsom_ba_2511043 
 **Model:** MLR — monthly_sales ~ 10 predictors
 
 A **residual** = Actual Sales − Model Predicted Sales.  
@@ -65,4 +65,4 @@ These stores underperformed relative to what the model expected given their inpu
 A near-zero mean residual ✅ confirms the model is not systematically biased. The spread indicates individual store-level variation the model cannot fully explain — which is expected and appropriate.
 
 ---
-*Part 3 Residual Analysis | BITSOM BA Capstone | bitsom_ba_2511044*
+*Part 3 Residual Analysis | BITSOM BA Capstone | bitsom_ba_2511043*
