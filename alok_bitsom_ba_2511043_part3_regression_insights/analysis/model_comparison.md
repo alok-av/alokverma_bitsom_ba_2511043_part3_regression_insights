@@ -1,5 +1,5 @@
 # Model Comparison — Simple vs. Multiple Regression
-**Student:** Aditya Verma | **ID:** bitsom_ba_2511044  
+**Student:** Alok Verma | **ID:** bitsom_ba_2511043  
 **Dependent Variable:** `monthly_sales`  
 **Dataset:** `business_regression_data.xlsx` | **n = 320**
 
@@ -96,4 +96,4 @@ The MLR achieves **83.1% explanatory power**, a significant improvement over eit
 The **Multiple Regression model is clearly superior** — it captures 83.1% of sales variance versus 73.6% for the best simple model. The improvement comes from accounting for footfall, discount behaviour, inventory, customer rating, and store type simultaneously.
 
 ---
-*Part 3 Analysis | BITSOM BA Capstone | bitsom_ba_2511044*
+*Part 3 Analysis | BITSOM BA Capstone | bitsom_ba_2511043*
