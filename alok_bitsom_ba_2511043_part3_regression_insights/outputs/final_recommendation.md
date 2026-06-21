@@ -1,6 +1,6 @@
 # Final Recommendation — Regression-Based Business Insights
 **To:** Senior Leadership & Operations Team  
-**From:** Aditya Verma, Business Analyst | ID: bitsom_ba_2511044  
+**From:** Alok Verma, Business Analyst | ID: bitsom_ba_2511043  
 **Date:** 18 June 2026  
 **Based on:** Multiple Linear Regression (R² = 0.8309, n = 320 store-months)
 
@@ -70,4 +70,4 @@ To establish causation, conduct **randomised controlled experiments** (e.g., tes
 5. Panel data structure (repeated store observations) may require mixed-effects models for unbiased standard errors
 
 ---
-*Prepared by: Aditya Verma | BITSOM BA Capstone | bitsom_ba_2511044*
+*Prepared by: Alok Verma | BITSOM BA Capstone | bitsom_ba_2511043*
