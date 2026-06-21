@@ -1,5 +1,5 @@
 # Model Equations, Coefficients & Reference Categories
-**Student:** Aditya Verma | **ID:** bitsom_ba_2511044
+**Student:** Alok Verma | **ID:** bitsom_ba_2511043
 
 ---
 
@@ -99,4 +99,4 @@ Regression coefficients show **correlation and association**, not causal relatio
 - To establish causation, a controlled experiment (randomised A/B test) is required.
 
 ---
-*Part 3 Model Equations | BITSOM BA Capstone | bitsom_ba_2511044*
+*Part 3 Model Equations | BITSOM BA Capstone | bitsom_ba_2511043*
